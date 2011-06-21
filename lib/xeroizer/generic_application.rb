@@ -20,7 +20,6 @@ module Xeroizer
     record :Invoice
     record :Item
     record :Journal
-    record :LineItem
     record :ManualJournal
     record :Organisation
     record :Payment
